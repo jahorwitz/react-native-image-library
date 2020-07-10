@@ -23,5 +23,13 @@
     "type": "git",
     "url": "git+https://github.com/jahorwitz/react-native-image-library.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "deep-equal": "^2.0.3",
+    "moment": "^2.27.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-native": "^0.63.0",
+    "react-native-elements": "^2.0.4"
+  }
 }
