@@ -1,0 +1,27 @@
+{
+  "name": "react-native-image-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jahorwitz",
+  "bugs": {
+    "url": "https://github.com/jahorwitz/react-native-image-library/issues"
+  },
+  "homepage": "https://github.com/jahorwitz/react-native-image-library#readme",
+  "keywords": [
+    "gallery",
+    "ios",
+    "image",
+    "react-component",
+    "react-native",
+    "react-native-component"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahorwitz/react-native-image-library.git"
+  },
+  "license": "MIT"
+}
